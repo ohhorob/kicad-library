@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Connector_zif-45
+D CFAF240320W-020T
+F https://www.crystalfontz.com/product/cfaf240320w020t-TFT-240x320-IPS
+$ENDCMP
+#
+$CMP TC2030
+D 6-Pin TC2030
+K connector swd
+F ~
+$ENDCMP
+#
+#End Doc Library
